@@ -1,0 +1,6 @@
+pipecat-ai[google,silero,deepgram,cartesia,openai]
+playwright
+python-dotenv
+fastapi
+uvicorn
+chromadb

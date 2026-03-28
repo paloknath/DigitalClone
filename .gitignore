@@ -1,0 +1,32 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Debug artifacts
+logs/
+debug_*.png
+screenshot_*.png
+api_server.log
+
+# Data (ChromaDB, transcripts)
+data/
+
+# TLS certificates (contain private key)
+certs/*.pem
+
+# Chrome profile
+C:/temp/chrome_bot_profile/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+# Persona (personal config)
+persona.txt
